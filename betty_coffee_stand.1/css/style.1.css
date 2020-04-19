@@ -32,6 +32,12 @@ header {
   color: #777;
 }
 
+.header-navigation {
+  width: 100%;
+  background-color: #fff;
+  padding: 20px 0;
+}
+
 .header-navigation:after {
   clear: both;
   display: block;
